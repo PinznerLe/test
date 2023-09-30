@@ -1,0 +1,16 @@
+** WARNING ** io features related to pcap will be disabled
+** WARNING ** io features related to png will be disabled
+[31m[1mCMake Error[0m at /home/leon/Masterarbeit_Leon_Pinzner/ros_ws/src/exp4/CMakeLists.txt:146 (add_executable):
+  Cannot find source file:
+
+    src/pc2_to_gridmap.cpp
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .cu .m .M .mm .h .hh .h++ .hm
+  .hpp .hxx .in .txx
+
+
+[31m[1mCMake Error[0m at /home/leon/Masterarbeit_Leon_Pinzner/ros_ws/src/exp4/CMakeLists.txt:146 (add_executable):
+  No SOURCES given to target: pc2_to_gridmap
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.

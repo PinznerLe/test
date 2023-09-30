@@ -1,0 +1,1 @@
+/home/leon/Masterarbeit_Leon_Pinzner/ros_ws/devel/.private/catkin_tools_prebuild/env.sh

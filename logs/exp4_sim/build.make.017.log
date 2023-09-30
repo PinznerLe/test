@@ -1,0 +1,8 @@
+[35m[1mScanning dependencies of target pc2_to_gridmap[0m
+[35m[1mScanning dependencies of target manipulate_map[0m
+[ 25%] [32mBuilding CXX object CMakeFiles/manipulate_map.dir/src/manipulate_map.cpp.o[0m
+[ 50%] [32mBuilding CXX object CMakeFiles/pc2_to_gridmap.dir/src/pc2_to_gridmap.cpp.o[0m
+[ 75%] [32m[1mLinking CXX executable /home/leon/Masterarbeit_Leon_Pinzner/ros_ws/devel/.private/exp4_sim/lib/exp4_sim/manipulate_map[0m
+[ 75%] Built target manipulate_map
+[100%] [32m[1mLinking CXX executable /home/leon/Masterarbeit_Leon_Pinzner/ros_ws/devel/.private/exp4_sim/lib/exp4_sim/pc2_to_gridmap[0m
+[100%] Built target pc2_to_gridmap

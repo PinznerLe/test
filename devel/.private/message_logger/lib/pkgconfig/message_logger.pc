@@ -1,0 +1,8 @@
+prefix=/home/leon/Masterarbeit_Leon_Pinzner/ros_ws/devel/.private/message_logger
+
+Name: message_logger
+Description: Description of message_logger
+Version: 0.2.15
+Cflags: -I/home/leon/Masterarbeit_Leon_Pinzner/ros_ws/src/message_logger-master/include -I/home/leon/Masterarbeit_Leon_Pinzner/ros_ws/devel/.private/message_logger/include
+Libs: -L${prefix}/lib -lmessage_logger
+Requires: roscpp
